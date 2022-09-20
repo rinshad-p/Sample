@@ -112,7 +112,8 @@ jQuery(document).ready(function($) {
 
       }
     });
+    form.reset();
     return false;
   });
-
+  form.reset();
 });
